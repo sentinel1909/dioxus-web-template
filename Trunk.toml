@@ -1,4 +1,5 @@
 # configuration file for trunk
 
 [build]
+target = "index.html"
 dist = "docs"
