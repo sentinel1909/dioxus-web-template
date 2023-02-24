@@ -1,0 +1,4 @@
+# configuration file for trunk
+
+[build]
+dist = "docs"

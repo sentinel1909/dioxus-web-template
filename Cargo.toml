@@ -1,5 +1,5 @@
 [package]
-name = "dioxus-hello-world"
+name = "dioxus-web-template"
 version = "0.1.0"
 edition = "2021"
 
